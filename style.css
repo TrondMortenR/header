@@ -8,7 +8,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 10px 20px;
-    background-color: #c5c4c4;
+    background-color: #2a65da;
     color: #fff;
 }
 
@@ -23,14 +23,9 @@ header {
     margin-right: 10px;
 }
 
-.center-icon {
-    flex-grow: 1;
-    text-align: center;
-}
-
 .header-icon img,
 .center-icon img {
-    width: 110px;
+    width: 50px;
     height: 30px;
     margin-right: 10px;
 }
